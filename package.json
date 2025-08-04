@@ -1,0 +1,22 @@
+{
+  "name": "backend-setup",
+  "version": "1.0.0",
+  "description": "The backend setup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Hemendra Singh Rathore",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
